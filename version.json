@@ -1,6 +1,6 @@
 {
   "latest_version": "1.0.1",
   "download_url": "https://github.com/your-github-username/your-repo/releases/latest",
-  "mandatory_update": false,
+  "mandatory_update": true,
   "changelog": "New stealth searches and Edge profile self-healing locks."
 }
